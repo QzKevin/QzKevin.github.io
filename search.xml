@@ -17,6 +17,19 @@
     
     
     <entry>
+      <title>中秋节快乐</title>
+      <link href="/posts/9d77eb79.html"/>
+      <url>/posts/9d77eb79.html</url>
+      
+        <content type="html"><![CDATA[<div class='poem'><div class='poem-title'>水调歌头</div><div class='poem-author'>苏轼</div><p>丙辰中秋，欢饮达旦，大醉，作此篇，兼怀子由。<br>明月几时有？把酒问青天。<br>不知天上宫阙，今夕是何年？<br>我欲乘风归去，又恐琼楼玉宇，高处不胜寒。<br>起舞弄清影，何似在人间？</p><p>转朱阁，低绮户，照无眠。<br>不应有恨，何事长向别时圆？<br>人有悲欢离合，月有阴晴圆缺，此事古难全。<br>但愿人长久，千里共婵娟。</p></div>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Butterfly外挂标签</title>
       <link href="/posts/3.html"/>
       <url>/posts/3.html</url>
@@ -90,6 +103,17 @@
       <url>/about.html</url>
       
         <content type="html"><![CDATA[<p>我是一个热爱数码科技的在读高中生，兴趣爱好是编程和自己瞎折腾，目前正在同步学习Java，Python，C++。拾起星光，奔赴未来，铭记初心，不负韶华！</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/link.html"/>
+      <url>/link.html</url>
+      
+        <content type="html"><![CDATA[<ul><li>name: 安知鱼`Blog<br>link: <a href="https://anzhiy.cn/">https://anzhiy.cn/</a><br>avatar: <a href="https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/avatar.png">https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/avatar.png</a><br>descr: 生活明朗，万物可爱<br>siteshot: <a href="https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/anzhiy.cn.jpg">https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/anzhiy.cn.jpg</a></li></ul>]]></content>
       
     </entry>
     
